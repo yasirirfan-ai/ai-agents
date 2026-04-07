@@ -1,6 +1,6 @@
 """
 Streamlit UI for the AQI Analysis Agent.
-Author: Hazbilal3
+Author: yasirirfan-ai
 """
 import streamlit as st
 import json

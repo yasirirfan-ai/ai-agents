@@ -1,6 +1,6 @@
 """
 Configuration settings for the AQI Analysis Agent.
-Author: Hazbilal3
+Author: yasirirfan-ai
 """
 import os
 import logging

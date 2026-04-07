@@ -1,6 +1,6 @@
 """
 Data models for the AQI Analysis Agent.
-Author: Hazbilal3
+Author: yasirirfan-ai
 """
 from typing import Dict, Optional
 from dataclasses import dataclass
