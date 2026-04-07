@@ -74,4 +74,4 @@ graph TD
 
 ---
 
-**Created by [Yasir](https://github.com/yasirirfan-ai)**
+**Maintained by [Yasir](https://github.com/yasirirfan-ai)**
